@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 163.55 153.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Sfumatura_senza_nome_94);
+      }
+
+      .cls-2 {
+        fill: url(#Sfumatura_senza_nome_94-2);
+      }
+
+      .cls-3 {
+        fill: url(#Sfumatura_senza_nome_214);
+      }
+
+      .cls-4 {
+        fill: url(#Sfumatura_senza_nome_163);
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: 0.5px;
+      }
+    </style>
+    <linearGradient id="Sfumatura_senza_nome_94" data-name="Sfumatura senza nome 94" y1="59.07" x2="63.52" y2="59.07" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#257ab9"/>
+      <stop offset="0.85" stop-color="#5491a5" stop-opacity="0.58"/>
+      <stop offset="1" stop-color="#5c95a1" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_94-2" x1="-32.13" y1="61.8" x2="27.68" y2="61.8" gradientTransform="matrix(-1.06, -0.05, -0.04, 1, 132.58, -0.05)" xlink:href="#Sfumatura_senza_nome_94"/>
+    <linearGradient id="Sfumatura_senza_nome_214" data-name="Sfumatura senza nome 214" x1="82" y1="46.19" x2="79.85" y2="177" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6f6f6"/>
+      <stop offset="1" stop-color="#a4a3a3"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_163" data-name="Sfumatura senza nome 163" x1="79.79" y1="142.41" x2="80.04" y2="107.34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e62c27"/>
+      <stop offset="1" stop-color="#e52320"/>
+    </linearGradient>
+  </defs>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="Livello_1-2" data-name="Livello 1">
+      <g>
+        <path class="cls-1" d="M63.52,36.86,6.68,62s-15,4.76,0,19.29L62.3,63.06Z"/>
+        <path class="cls-2" d="M101.35,38.18,157.2,65.84s14.86,5.43-.86,19.28L101.4,64.42Z"/>
+        <path class="cls-3" d="M66.11,125.1S48.72-.21,84.69,0c31.91.18,9.42,125.1,9.42,125.1A35.3,35.3,0,0,0,66.11,125.1Z"/>
+        <path class="cls-4" d="M65.82,122.25l-3.23,18.67s13.34,7.12,34.42,0L94.64,122"/>
+        <line class="cls-5" x1="79.8" y1="136.13" x2="79.8" y2="153.95"/>
+        <line class="cls-5" x1="73.82" y1="25.11" x2="92.41" y2="25.94"/>
+      </g>
+    </g>
+  </g>
+</svg>

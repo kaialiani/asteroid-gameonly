@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156.3" height="166.15" viewBox="0 0 156.3 166.15">
+  <defs>
+    <filter id="Ellipse_9" x="0" y="0" width="156.3" height="166.15" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.05" result="blur"/>
+      <feFlood flood-color="#be9922"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_14">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_6" data-name="Group 6" transform="translate(-2751.85 -1485)">
+    <g transform="matrix(1, 0, 0, 1, 2751.85, 1485)" filter="url(#Ellipse_9)">
+      <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="78" cy="78" r="78" transform="translate(0.15)" fill="#e3b700"/>
+    </g>
+    <g data-type="innerShadowGroup">
+      <path id="Path_14-2" data-name="Path 14" d="M0,57.2V30.283H24.512L30.037,24.8,55,0V85.9L24.512,57.2Z" transform="translate(2782.224 1519.905)" fill="#be9922"/>
+      <g transform="matrix(1, 0, 0, 1, 2751.85, 1485)" filter="url(#Path_14)">
+        <path id="Path_14-3" data-name="Path 14" d="M0,57.2V30.283H24.512L30.037,24.8,55,0V85.9L24.512,57.2Z" transform="translate(30.37 34.9)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Path_15" data-name="Path 15" d="M2866.557,1515.893" transform="translate(5.335 21.344)" fill="none" stroke="#707070" stroke-width="4"/>
+    <path id="Path_16" data-name="Path 16" d="M2866.557,1541.989s13.073-12.706,0-26.1" transform="translate(-17.196 33.766)" fill="none" stroke="#ae8c1f" stroke-width="4"/>
+    <path id="Path_18" data-name="Path 18" d="M2835.886,1544.793s8.99-10.976,9.221-22.356-9.221-20.754-9.221-20.754" transform="translate(22.781 39.615)" fill="none" stroke="#a6861d" stroke-width="4"/>
+  </g>
+</svg>

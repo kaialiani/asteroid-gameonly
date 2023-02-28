@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <link rel="stylesheet" href="animations.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <title>Asteroid</title>
+</head>
+
+
+
+<body style="background-color: rgb(66, 66, 66);">
+
+    <section id="screen">
+        
+        <div id="game">
+
+            <div id="game_background"></div>
+
+            <div>
+                <div id="asteroid_container">
+                    <div id="asteroid_sprite"></div>
+                </div>
+                <div id="plane_container">
+                    <div id="plane_sprite"></div>
+                </div>
+                <div id="rocket_container">
+                    <div id="rocket_sprite"></div>
+                </div>
+                <div id="tablet1_container">
+                    <div id="tablet1_sprite"></div>
+                </div>
+            </div>
+
+            <div id="game_middleground">
+
+            <div id="game_ui">
+                <div id="score_board"><span id="current_score"></span></div>
+                <div id="life_board"><br><span id="current_lives"></span></div>
+            </div>
+
+            <div id="face"></div>
+            <div id="happyface" class="hidden"></div>
+            <div id="sadface" class="hidden"></div>
+
+            <div id="healthindicator">
+                <div id="life1" id="hidden"></div>
+                <div id="life2" id="hidden"></div>
+                <div id="life3"></div>
+            </div>
+
+        </div>
+
+        <div id="pause" class=""></div>
+        <div id="playy" class="hidden"></div>
+        <div id="soundoff" class="hidden"></div>
+        <div id="soundon" class=""></div>
+
+        <div id="title_screen" class="hidden">
+            <div id="playgame" class="pulse"></div>
+            <div id="info"></div>
+            <div id="titlesound"></div>
+            <div id="titlemute" class="hidden"></div>
+        </div>
+
+        <div id="instructions_screen" class="hidden">
+            <div id="instrback" class="pulse"></div>
+        </div>
+
+        <div id="win_screen" class="hidden">
+            <div id="retry-win" class="pulse"></div>
+        </div>
+
+        <div id="lose_screen" class="hidden">
+            <div id="retry-lose" class="pulse"></div>
+        </div>
+
+        <div id="sounds">
+            <audio id="buttonSound" src="button-sound.mp3"></audio>
+            <audio id="bgSound" src="night-sound.mp3"></audio>
+            <audio id="badSound" src="bad-sound.mp3"></audio>
+            <audio id="goodSound" src="good-sound.mp3"></audio>
+            <audio id="winningSound" src="winning-sound.mp3"></audio>
+            <audio id="losingSound" src="losing-sound.mp3"></audio>
+        </div>
+
+    </section>
+    <script src="script.js"></script>
+</body>
+
+</html>

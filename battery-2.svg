@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="226.77" height="190.98" viewBox="0 0 226.77 190.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #464646;
+      }
+
+      .cls-2 {
+        fill: #f3e724;
+      }
+    </style>
+  </defs>
+  <g id="Group_15" data-name="Group 15" transform="translate(1117 -752.746)">
+    <g id="Livello_2" data-name="Livello 2" transform="translate(-1117 752.726)">
+      <g id="Livello_1" data-name="Livello 1">
+        <g id="Group_11" data-name="Group 11">
+          <path id="Path_22" data-name="Path 22" class="cls-1" d="M51.72,14.38H179.24a47.53,47.53,0,0,1,47.53,47.53v73.17A55.87,55.87,0,0,1,170.9,191H51.72A51.72,51.72,0,0,1,0,139.23V66.1A51.72,51.72,0,0,1,51.72,14.38Z"/>
+          <path id="Path_23" data-name="Path 23" class="cls-1" d="M52.81,0h119a6.72,6.72,0,0,1,6.72,6.72h0a15.5,15.5,0,0,1-15.5,15.5H61.6A15.51,15.51,0,0,1,46.08,6.72h0A6.72,6.72,0,0,1,52.81,0Z" transform="translate(224.65 22.24) rotate(180)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Livello_2-2" data-name="Livello 2" transform="translate(-1107.44 827.746)">
+      <g id="Livello_1-2" data-name="Livello 1">
+        <g id="Group_14" data-name="Group 14">
+          <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-2" width="207.65" height="49.84"/>
+          <path id="Path_27" data-name="Path 27" class="cls-2" d="M0,56.73H207.65a49.84,49.84,0,0,1-49.84,49.84H44.19A44.19,44.19,0,0,1,0,62.38Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

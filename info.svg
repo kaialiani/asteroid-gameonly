@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156.3" height="166.15" viewBox="0 0 156.3 166.15">
+  <defs>
+    <filter id="Ellipse_7" x="0" y="0" width="156.3" height="166.15" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.05" result="blur"/>
+      <feFlood flood-color="#232777"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.169" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_8">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.114" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(-2647.85 -1705)">
+    <g transform="matrix(1, 0, 0, 1, 2647.85, 1705)" filter="url(#Ellipse_7)">
+      <circle id="Ellipse_7-2" data-name="Ellipse 7" cx="78" cy="78" r="78" transform="translate(0.15)" fill="#343ac7"/>
+    </g>
+    <g data-type="innerShadowGroup">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="16" height="63" rx="8" transform="translate(2718 1765.551)" fill="#232777"/>
+      <g transform="matrix(1, 0, 0, 1, 2647.85, 1705)" filter="url(#Rectangle_1)">
+        <rect id="Rectangle_1-3" data-name="Rectangle 1" width="16" height="63" rx="8" transform="translate(70.15 60.55)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <circle id="Ellipse_8-2" data-name="Ellipse 8" cx="8" cy="8" r="8" transform="translate(2718 1737.449)" fill="#262b80"/>
+      <g transform="matrix(1, 0, 0, 1, 2647.85, 1705)" filter="url(#Ellipse_8)">
+        <circle id="Ellipse_8-3" data-name="Ellipse 8" cx="8" cy="8" r="8" transform="translate(70.15 32.45)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

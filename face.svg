@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 114.23 121.97">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Sfumatura_senza_nome_14);
+      }
+
+      .cls-1, .cls-2 {
+        opacity: .34;
+      }
+
+      .cls-3 {
+        fill: #bf8aa2;
+      }
+
+      .cls-4 {
+        fill: #1f1200;
+      }
+
+      .cls-5 {
+        fill: #1d1d1b;
+      }
+
+      .cls-2 {
+        fill: url(#Sfumatura_senza_nome_3);
+      }
+
+      .cls-6 {
+        fill: url(#Sfumatura_senza_nome_4);
+        opacity: .97;
+      }
+
+      .cls-7 {
+        fill: #e9e9e9;
+        opacity: .88;
+      }
+
+      .cls-8 {
+        fill: #fccf9f;
+        opacity: .8;
+      }
+    </style>
+    <linearGradient id="Sfumatura_senza_nome_4" data-name="Sfumatura senza nome 4" x1="-23.2" y1="43" x2="106.04" y2="43" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#fa0"/>
+      <stop offset=".66" stop-color="#f09300"/>
+      <stop offset=".94" stop-color="#e98800"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_14" data-name="Sfumatura senza nome 14" x1="73.97" y1="82.64" x2="136.04" y2="82.64" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5fb4d0"/>
+      <stop offset=".07" stop-color="#69b5d0"/>
+      <stop offset=".19" stop-color="#87bbd0"/>
+      <stop offset=".34" stop-color="#b6c3d0"/>
+      <stop offset=".53" stop-color="#f7ced0"/>
+      <stop offset=".55" stop-color="#ffd0d0"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_3" data-name="Sfumatura senza nome 3" x1="47.28" y1="52.19" x2="47.61" y2="114.26" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset=".22" stop-color="#1cc7dc"/>
+      <stop offset=".29" stop-color="#29c8e0"/>
+      <stop offset=".42" stop-color="#4dcbeb"/>
+      <stop offset=".6" stop-color="#87d0fc"/>
+      <stop offset=".62" stop-color="#90d1ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Livello_1" data-name="Livello 1"/>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="telescopio">
+      <g>
+        <path id="faccia" class="cls-8" d="M16.63,106.54s20.38,28.59,81,7.92c0,0,13.87-5.06,12.11-15.63,0,0,.19-2.78-6.61-7.37,0,0,1.03-31.2-3.4-39.48,0,0-3.41-1.77-3.75-6.59-.43-6.04,0,0,0,0,0,0-5.29,2.26-7.73-.95s0,0,0,0c0,0-6.5,7.64-16.53,1.07-10.03-6.57,0,0,0,0,0,0-11.37,6.33-17.24-.12-5.87-6.45,0,0,0,0,0,0-10.66,8.83-16.88,0-6.22-8.83,0,0,0,0,0,0-3.21,9.12-10.7,3.92-7.49-5.2,0,0,0,0,0,0,.76,31.3-18.39,35.84s0,0,0,0c0,0-12.58,18.52,8.12,21.38Z"/>
+        <path class="cls-4" d="M52.28,58.19s-10.91-11.08-18,2.35c0,0,9.89-4.79,18-2.35Z"/>
+        <path class="cls-5" d="M84.23,56.21s7.27-7.17,13.6,1.1c0,0-15.46,.3-13.6-1.1Z"/>
+        <path id="capelli" class="cls-6" d="M8.49,85.99s-18.18-22.33,3.19-41.15c0,0-8.61-23.28,20.41-29.98,0,0,13.4-22.97,36.36-11.8,0,0,48.8-6.38,31.26,21.05-.21,.21,30.75-3.74,0,28.71,0,0-4.11-2.55-3.75-6.59,0,0-5.35,2.38-7.73-.95,0,0-6.42,7.61-16.53,1.07,0,0-11.53,6.66-17.24-.12,0,0-10.23,9.04-16.88,0,0,0-3.33,9.27-10.7,3.92,0,0,.74,32.56-18.39,35.84Z"/>
+        <circle class="cls-5" cx="91.28" cy="85.99" r="2.28"/>
+        <circle class="cls-5" cx="48.5" cy="85.99" r="2.28"/>
+        <g>
+          <ellipse class="cls-7" cx="47.45" cy="83.83" rx="22.44" ry="23.12"/>
+          <ellipse class="cls-7" cx="92.06" cy="82.64" rx="22.17" ry="22.99"/>
+          <ellipse class="cls-1" cx="92.06" cy="82.64" rx="18.09" ry="19.16"/>
+          <ellipse class="cls-2" cx="47.45" cy="83.83" rx="18.09" ry="19.16"/>
+        </g>
+        <path class="cls-3" d="M60.23,104.69s7.66,3.73,21.31,0c0,0-2.62,3.39-10.65,4.41s-10.65-4.41-10.65-4.41Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 76.59 155.45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Sfumatura_senza_nome_214);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #ce0b10;
+      }
+
+      .cls-4 {
+        fill: #e30613;
+      }
+
+      .cls-5 {
+        fill: #f39200;
+      }
+
+      .cls-6 {
+        fill: #b2b2b2;
+      }
+
+      .cls-7 {
+        fill: url(#Sfumatura_senza_nome_332);
+      }
+
+      .cls-8 {
+        fill: url(#Sfumatura_senza_nome_322);
+      }
+
+      .cls-9 {
+        fill: #ffd200;
+      }
+
+      .cls-10 {
+        fill: url(#Sfumatura_senza_nome_296);
+      }
+
+      .cls-11 {
+        fill: url(#Sfumatura_senza_nome_296-2);
+      }
+
+      .cls-12 {
+        fill: #991914;
+      }
+    </style>
+    <linearGradient id="Sfumatura_senza_nome_214" data-name="Sfumatura senza nome 214" x1="38.37" y1="43.5" x2="36.35" y2="166.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6f6f6"/>
+      <stop offset="1" stop-color="#a4a3a3"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_332" data-name="Sfumatura senza nome 332" x1="-21.74" y1="123" x2="-2.5" y2="123" gradientTransform="translate(-85.24 37.25) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6cb6d9"/>
+      <stop offset="1" stop-color="#b5e0ef" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_322" data-name="Sfumatura senza nome 322" x1="23.18" y1="123.7" x2="51.86" y2="123.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffea00"/>
+      <stop offset="1" stop-color="#ffd316"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_296" data-name="Sfumatura senza nome 296" y1="96.44" x2="16.62" y2="96.44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e31013"/>
+      <stop offset="1" stop-color="#a5130d"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_296-2" x1="57.91" y1="96.44" x2="76.59" y2="96.44" xlink:href="#Sfumatura_senza_nome_296"/>
+  </defs>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="Livello_1-2" data-name="Livello 1">
+      <g>
+        <path class="cls-1" d="M17.66,117.45S8.43,23.29,39.49.14c0,0,28.38,23.12,16.91,117.33Z"/>
+        <line class="cls-2" x1="27.75" y1="28.7" x2="27.75" y2="28.7"/>
+        <path class="cls-3" d="M23.39,26.86H53.28S49.47,8.82,38.56,0C38.56,0,28.89,7.45,23.39,26.86Z"/>
+        <path class="cls-4" d="M19.24,119.31,12.6,144.66c-.22.86.65,1.55,1.26,1l11.3-10.26c.51-.47,1.26-.07,1.29.69L27,154.56c0,.89,1,1.22,1.46.47L39,136.5a.75.75,0,0,1,1.37.06l8.42,17.93c.38.83,1.46.54,1.49-.4L51,134.74a.78.78,0,0,1,1.33-.64l8,8.49c.59.63,1.53-.05,1.3-.94L56,119.34a.82.82,0,0,0-.76-.66l-35.2,0A.82.82,0,0,0,19.24,119.31Z"/>
+        <path class="cls-4" d="M56,119.22c-.65-1.64-1.09-1.85-1.09-1.85-17.49-3.67-35,0-35,0a4.81,4.81,0,0,0-.64,1.83"/>
+        <path class="cls-5" d="M23.39,117.31l-5.2,17.28a.62.62,0,0,0,1,.68l8.85-7a.63.63,0,0,1,1,.47l.46,12.61a.63.63,0,0,0,1.15.32L38.9,129a.62.62,0,0,1,1.07,0l6.6,12.23a.62.62,0,0,0,1.17-.27l.52-13.2a.62.62,0,0,1,1-.44l6.29,5.79a.62.62,0,0,0,1-.64l-4.44-15.21a.62.62,0,0,0-.6-.45l-27.58,0A.62.62,0,0,0,23.39,117.31Z"/>
+        <path class="cls-5" d="M22.83,116.86a94.28,94.28,0,0,1,29.38,0Z"/>
+        <circle class="cls-6" cx="37.75" cy="49.37" r="11.88"/>
+        <circle class="cls-7" cx="37.75" cy="49.37" r="9.62"/>
+        <path class="cls-8" d="M27.08,116.5,23.2,126.78c-.13.35.38.63.73.41l6.6-4.17c.3-.19.74,0,.76.28l.35,7.5c0,.36.6.5.85.19l6.15-7.52a.53.53,0,0,1,.8,0l4.92,7.27c.22.34.85.22.87-.16l.38-7.85c0-.32.49-.48.78-.26l4.69,3.44c.35.26.89,0,.76-.38l-3.31-9a.47.47,0,0,0-.45-.27S27.14,116.34,27.08,116.5Z"/>
+        <path class="cls-9" d="M27.08,116.5l.07-.23a109.83,109.83,0,0,1,20.93,0Z"/>
+        <path class="cls-10" d="M16.62,73.65A45,45,0,0,0,0,89.37v29.85S9.51,105,16.62,103.47Z"/>
+        <path class="cls-11" d="M59.13,73.65A46.56,46.56,0,0,1,76.59,89.37v29.85S65.38,104.45,57.91,103Z"/>
+        <polygon class="cls-4" points="35.59 73.65 30.44 86.42 30.44 115.98 35.59 104.88 35.59 73.65"/>
+        <polyline class="cls-3" points="30.44 118.65 35.59 118.65 35.59 86.42 30.44 86.42"/>
+        <polygon class="cls-12" points="35.59 86.42 40.6 73.65 35.59 73.65 35.59 86.42"/>
+        <polygon class="cls-12" points="40.6 73.65 40.6 105.64 35.59 118.65 35.59 86.42 40.6 73.65"/>
+        <polygon class="cls-4" points="35.59 86.42 40.6 73.65 35.59 73.65 35.59 86.42"/>
+      </g>
+    </g>
+  </g>
+</svg>

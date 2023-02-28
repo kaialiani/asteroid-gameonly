@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="492.15" height="299.075" viewBox="0 0 492.15 299.075">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d6d6d6;
+      }
+
+      .cls-2 {
+        fill: #aeb6a1;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #31332d;
+        font-size: 205px;
+        font-family: Digital-Display, Digital Display;
+      }
+
+      .cls-5 {
+        filter: url(#_1500);
+      }
+
+      .cls-6 {
+        filter: url(#Rectangle_8);
+      }
+
+      .cls-7 {
+        filter: url(#Rectangle_7);
+      }
+    </style>
+    <filter id="Rectangle_7" x="0" y="0" width="492.15" height="299.075" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.025" result="blur"/>
+      <feFlood flood-color="#a3a3a3"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8" x="22.075" y="19" width="449" height="241" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="_1500" x="47.825" y="70.75" width="372.5" height="140.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.75" result="blur-3"/>
+      <feFlood flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_17" data-name="Group 17" transform="translate(-740.925 -3865)">
+    <g class="cls-7" transform="matrix(1, 0, 0, 1, 740.92, 3865)">
+      <rect id="Rectangle_7-2" data-name="Rectangle 7" class="cls-1" width="492" height="279" rx="56" transform="translate(0.08)"/>
+    </g>
+    <g data-type="innerShadowGroup">
+      <rect id="Rectangle_8-2" data-name="Rectangle 8" class="cls-2" width="449" height="241" rx="44" transform="translate(763 3884)"/>
+      <g class="cls-6" transform="matrix(1, 0, 0, 1, 740.92, 3865)">
+        <rect id="Rectangle_8-3" data-name="Rectangle 8" class="cls-3" width="449" height="241" rx="44" transform="translate(22.08 19)"/>
+      </g>
+    </g>
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, 740.92, 3865)">
+      <text id="_1500-2" data-name="1500" class="cls-4" transform="translate(50.08 207)"><tspan x="0" y="0">1500</tspan></text>
+    </g>
+  </g>
+</svg>
